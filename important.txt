@@ -1,0 +1,5 @@
+Git reset 'hash': Regresa a un commit anterior borrando los cambios
+Git checkout 'hash': Regresa a un commit anterior sin borrar los cambios
+Git log: Te muestra todos los commits
+git log -p: Da una descripciòn màs extensa de un commit.
+git commit -a: Permite escribir un commit con un editor de texto
